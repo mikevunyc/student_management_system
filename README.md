@@ -1,5 +1,5 @@
 
-# Assignment
+# Console Java Application
 
 Part 1: Student Management System
 
